@@ -1,8 +1,0 @@
-title{.solid {border-style: solid;} }
-body{
-	background-image: url(fadedblue.jpg.png) ;
-	color: red;
-	font-size: 26pt;
-	font-family: 'Oswald', sans-serif;
-}
-table, th, td { border: 1px solid black; border-collapse: collapse }
